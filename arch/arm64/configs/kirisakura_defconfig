@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="Kirisakura-Bluecross-1.5.0"
+CONFIG_LOCALVERSION="Kirisakura-Bluecross-1.5.1"
 CONFIG_KERNEL_LZ4=y
 # CONFIG_FHANDLE is not set
 CONFIG_AUDIT=y
